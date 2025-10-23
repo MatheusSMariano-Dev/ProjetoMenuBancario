@@ -108,3 +108,4 @@ Desenvolvedor em formação com foco em Java e prática em front end.
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
 
 Isso ajuda a destacar meu trabalho e motiva a continuar evoluindo 🚀
+<!-- atualização linguist -->
